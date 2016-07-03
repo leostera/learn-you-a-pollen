@@ -1,1 +1,2 @@
 *.pp linguist-language=Racket
+*.pmd linguist-language=Racket
